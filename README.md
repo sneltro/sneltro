@@ -2,7 +2,7 @@
 
 I'm Damir Zasimenko, but you might know me as Sneltro in my tech blogs. I work as a full-stack developer with a passion for engineering and process automation. Reach out to my email with professional requests and offers.  
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,vscode,postgres,docker,kubernetes,nextjs,redis,windows,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,vscode,postgres,docker,kubernetes,nextjs,redis,postman)](https://skillicons.dev)
 
 
 <p align="center">
