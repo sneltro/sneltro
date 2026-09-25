@@ -20,30 +20,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Galaga (Dark Theme)
+      - name: Generate Galaga Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Sneltro
-          game: galaga
-          theme: dark
-
-      - name: Stage Dark Theme Asset
-        run: |
-          mkdir -p dist-staged
-          cp dist/galaga.svg dist-staged/galaga-dark.svg
-
-      - name: Generate Galaga (Light Theme)
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: Sneltro
-          game: galaga
-          theme: light
-
-      - name: Prepare Final Output Assets
-        run: |
-          cp dist/galaga.svg dist-staged/galaga-light.svg
-          rm -rf dist
-          mv dist-staged dist
+          games: galaga
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
