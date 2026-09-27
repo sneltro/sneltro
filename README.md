@@ -3,7 +3,7 @@
 Full-stack developer. For professional inquiries or offers, Telegram is preferred over email.
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,vscode,postgres,docker,kubernetes,nextjs,redis,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,postgres,docker,kubernetes,nextjs,redis,postman)](https://skillicons.dev)
 
 
 <p align="center">
