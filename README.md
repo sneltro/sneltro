@@ -1,6 +1,6 @@
 ## Hello, World
 
-Full-stack developer. Here I upload some of my pet-projects or source code from videos.
+Full-stack developer. Here I upload some of my pet-projects or source code from the videos.
 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,postgres,docker,kubernetes,nextjs,redis,postman)](https://skillicons.dev)
